@@ -11,25 +11,25 @@
 
 const dailyProblems = [
 {
-    id: 11,
-    date: "Day 6",
-    title: "Union of Two Arrays",
+    id: 13,
+    date: "Day 7",
+    title: "Third Largest",
     topic: "Array Basics",
     difficulty: "Easy",
     platform: "GeeksforGeeks",
     link:
-        "https://www.geeksforgeeks.org/problems/union-of-two-arrays3538/1"
+        "https://www.geeksforgeeks.org/problems/third-largest-element/1"
 },
 
 {
-    id: 12,
-    date: "Day 6",
-    title: "Intersection of Two Arrays",
+    id: 17,
+    date: "Day 7",
+    title: "Max Sum Path in Two Arrays",
     topic: "Array Basics",
-    difficulty: "Easy",
+    difficulty: "Medium",
     platform: "GeeksforGeeks",
     link:
-        "https://www.geeksforgeeks.org/problems/intersection-of-two-arrays2404/1"
+        "https://www.geeksforgeeks.org/problems/max-sum-path-in-two-arrays/1"
 },
 
 
@@ -207,6 +207,27 @@ const previousProblems = [
     platform: "GeeksforGeeks",
     link:
         "https://www.geeksforgeeks.org/problems/perfect-arrays4645/1"
+},
+{
+    id: 11,
+    date: "Day 6",
+    title: "Union of Two Arrays",
+    topic: "Array Basics",
+    difficulty: "Easy",
+    platform: "GeeksforGeeks",
+    link:
+        "https://www.geeksforgeeks.org/problems/union-of-two-arrays3538/1"
+},
+
+{
+    id: 12,
+    date: "Day 6",
+    title: "Intersection of Two Arrays",
+    topic: "Array Basics",
+    difficulty: "Easy",
+    platform: "GeeksforGeeks",
+    link:
+        "https://www.geeksforgeeks.org/problems/intersection-of-two-arrays2404/1"
 },
 
 
