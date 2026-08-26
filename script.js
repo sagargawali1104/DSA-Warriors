@@ -11,25 +11,25 @@
 
 const dailyProblems = [
 {
-    id: 13,
-    date: "Day 7",
-    title: "Third Largest",
-    topic: "Array Basics",
-    difficulty: "Easy",
+    id: 15,
+    date: "Day 8",
+    title: "Replace all 0's with 5",
+    topic: "Basic Math",
+    difficulty: "Basic",
     platform: "GeeksforGeeks",
     link:
-        "https://www.geeksforgeeks.org/problems/third-largest-element/1"
+        "https://www.geeksforgeeks.org/problems/replace-all-0s-with-5/1"
 },
 
 {
-    id: 17,
-    date: "Day 7",
-    title: "Max Sum Path in Two Arrays",
+    id: 16,
+    date: "Day 8",
+    title: "Palindrome Array",
     topic: "Array Basics",
-    difficulty: "Medium",
+    difficulty: "Basic",
     platform: "GeeksforGeeks",
     link:
-        "https://www.geeksforgeeks.org/problems/max-sum-path-in-two-arrays/1"
+        "https://www.geeksforgeeks.org/problems/perfect-arrays4645/1"
 },
 
 
@@ -228,6 +228,27 @@ const previousProblems = [
     platform: "GeeksforGeeks",
     link:
         "https://www.geeksforgeeks.org/problems/intersection-of-two-arrays2404/1"
+},
+{
+    id: 13,
+    date: "Day 7",
+    title: "Third Largest",
+    topic: "Array Basics",
+    difficulty: "Easy",
+    platform: "GeeksforGeeks",
+    link:
+        "https://www.geeksforgeeks.org/problems/third-largest-element/1"
+},
+
+{
+    id: 14,
+    date: "Day 7",
+    title: "Max Sum Path in Two Arrays",
+    topic: "Array Basics",
+    difficulty: "Medium",
+    platform: "GeeksforGeeks",
+    link:
+        "https://www.geeksforgeeks.org/problems/max-sum-path-in-two-arrays/1"
 },
 
 
