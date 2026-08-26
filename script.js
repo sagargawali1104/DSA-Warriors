@@ -10,27 +10,28 @@
 ========================================================= */
 
 const dailyProblems = [
-{
-    id: 15,
-    date: "Day 8",
-    title: "Replace all 0's with 5",
-    topic: "Basic Math",
-    difficulty: "Basic",
-    platform: "GeeksforGeeks",
-    link:
-        "https://www.geeksforgeeks.org/problems/replace-all-0s-with-5/1"
-},
-
-{
-    id: 16,
-    date: "Day 8",
-    title: "Palindrome Array",
+    {
+    id: 17,
+    date: "Day 9",
+    title: "Array Insert at Index",
     topic: "Array Basics",
     difficulty: "Basic",
     platform: "GeeksforGeeks",
     link:
-        "https://www.geeksforgeeks.org/problems/perfect-arrays4645/1"
+        "https://www.geeksforgeeks.org/problems/array-insert-at-index/1"
 },
+
+{
+    id: 18,
+    date: "Day 9",
+    title: "Segregate 0s and 1s",
+    topic: "Array Basics",
+    difficulty: "Easy",
+    platform: "GeeksforGeeks",
+    link:
+        "https://www.geeksforgeeks.org/problems/segregate-0s-and-1s5106/1"
+},
+
 
 
     
@@ -250,7 +251,27 @@ const previousProblems = [
     link:
         "https://www.geeksforgeeks.org/problems/max-sum-path-in-two-arrays/1"
 },
+{
+    id: 15,
+    date: "Day 8",
+    title: "Replace all 0's with 5",
+    topic: "Basic Math",
+    difficulty: "Basic",
+    platform: "GeeksforGeeks",
+    link:
+        "https://www.geeksforgeeks.org/problems/replace-all-0s-with-5/1"
+},
 
+{
+    id: 16,
+    date: "Day 8",
+    title: "Palindrome Array",
+    topic: "Array Basics",
+    difficulty: "Basic",
+    platform: "GeeksforGeeks",
+    link:
+        "https://www.geeksforgeeks.org/problems/perfect-arrays4645/1"
+},
 
 
 ];
