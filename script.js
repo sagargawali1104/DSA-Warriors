@@ -11,26 +11,27 @@
 
 const dailyProblems = [
     {
-    id: 17,
-    date: "Day 9",
-    title: "Array Insert at Index",
+    id: 19,
+    date: "Day 10",
+    title: "Doubling the Value",
     topic: "Array Basics",
     difficulty: "Basic",
     platform: "GeeksforGeeks",
     link:
-        "https://www.geeksforgeeks.org/problems/array-insert-at-index/1"
+        "https://www.geeksforgeeks.org/problems/doubling-the-value/1"
 },
 
 {
-    id: 18,
-    date: "Day 9",
-    title: "Segregate 0s and 1s",
-    topic: "Array Basics",
-    difficulty: "Easy",
+    id: 20,
+    date: "Day 10",
+    title: "Remove Consonants",
+    topic: "String Basics",
+    difficulty: "Basic",
     platform: "GeeksforGeeks",
     link:
-        "https://www.geeksforgeeks.org/problems/segregate-0s-and-1s5106/1"
+        "https://www.geeksforgeeks.org/problems/c-program-to-remove-consonants-from-a-string1945/1"
 },
+   
 
 
 
@@ -271,6 +272,27 @@ const previousProblems = [
     platform: "GeeksforGeeks",
     link:
         "https://www.geeksforgeeks.org/problems/perfect-arrays4645/1"
+},
+ {
+    id: 17,
+    date: "Day 9",
+    title: "Array Insert at Index",
+    topic: "Array Basics",
+    difficulty: "Basic",
+    platform: "GeeksforGeeks",
+    link:
+        "https://www.geeksforgeeks.org/problems/array-insert-at-index/1"
+},
+
+{
+    id: 18,
+    date: "Day 9",
+    title: "Segregate 0s and 1s",
+    topic: "Array Basics",
+    difficulty: "Easy",
+    platform: "GeeksforGeeks",
+    link:
+        "https://www.geeksforgeeks.org/problems/segregate-0s-and-1s5106/1"
 },
 
 
