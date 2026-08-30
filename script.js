@@ -11,26 +11,27 @@
 
 const dailyProblems = [
     {
-    id: 19,
-    date: "Day 10",
-    title: "Doubling the Value",
-    topic: "Array Basics",
-    difficulty: "Basic",
+    id: 20,
+    date: "Day 11",
+    title: "Product Pair",
+    topic: "Array / Hashing",
+    difficulty: "Medium",
     platform: "GeeksforGeeks",
     link:
-        "https://www.geeksforgeeks.org/problems/doubling-the-value/1"
+        "https://www.geeksforgeeks.org/problems/equal-to-product3836/1"
 },
 
 {
-    id: 20,
-    date: "Day 10",
-    title: "Remove Consonants",
-    topic: "String Basics",
-    difficulty: "Basic",
+    id: 21,
+    date: "Day 11",
+    title: "First Occurrence in Sorted",
+    topic: "Binary Search",
+    difficulty: "Easy",
     platform: "GeeksforGeeks",
     link:
-        "https://www.geeksforgeeks.org/problems/c-program-to-remove-consonants-from-a-string1945/1"
+        "https://www.geeksforgeeks.org/problems/binary-search-1587115620/1"
 },
+   
    
 
 
@@ -293,6 +294,27 @@ const previousProblems = [
     platform: "GeeksforGeeks",
     link:
         "https://www.geeksforgeeks.org/problems/segregate-0s-and-1s5106/1"
+},
+ {
+    id: 19,
+    date: "Day 10",
+    title: "Doubling the Value",
+    topic: "Array Basics",
+    difficulty: "Basic",
+    platform: "GeeksforGeeks",
+    link:
+        "https://www.geeksforgeeks.org/problems/doubling-the-value/1"
+},
+
+{
+    id: 20,
+    date: "Day 10",
+    title: "Remove Consonants",
+    topic: "String Basics",
+    difficulty: "Basic",
+    platform: "GeeksforGeeks",
+    link:
+        "https://www.geeksforgeeks.org/problems/c-program-to-remove-consonants-from-a-string1945/1"
 },
 
 
