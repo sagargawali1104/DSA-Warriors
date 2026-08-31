@@ -11,26 +11,28 @@
 
 const dailyProblems = [
     {
-    id: 20,
-    date: "Day 11",
-    title: "Product Pair",
-    topic: "Array / Hashing",
-    difficulty: "Medium",
-    platform: "GeeksforGeeks",
-    link:
-        "https://www.geeksforgeeks.org/problems/equal-to-product3836/1"
-},
-
-{
-    id: 21,
-    date: "Day 11",
-    title: "First Occurrence in Sorted",
-    topic: "Binary Search",
+    id: 23,
+    date: "Day 10",
+    title: "Check Equal Arrays",
+    topic: "Array Basics",
     difficulty: "Easy",
     platform: "GeeksforGeeks",
     link:
-        "https://www.geeksforgeeks.org/problems/binary-search-1587115620/1"
+        "https://www.geeksforgeeks.org/problems/check-if-two-arrays-are-equal-or-not3847/1"
 },
+
+{
+    id: 24,
+    date: "Day 10",
+    title: "Min Diff Pair",
+    topic: "Array Basics",
+    difficulty: "Easy",
+    platform: "GeeksforGeeks",
+    link:
+        "https://www.geeksforgeeks.org/problems/minimum-difference-pair5444/1"
+},
+    
+    
    
    
 
@@ -315,6 +317,27 @@ const previousProblems = [
     platform: "GeeksforGeeks",
     link:
         "https://www.geeksforgeeks.org/problems/c-program-to-remove-consonants-from-a-string1945/1"
+},
+{
+    id: 21,
+    date: "Day 11",
+    title: "Product Pair",
+    topic: "Array / Hashing",
+    difficulty: "Medium",
+    platform: "GeeksforGeeks",
+    link:
+        "https://www.geeksforgeeks.org/problems/equal-to-product3836/1"
+},
+
+{
+    id: 22,
+    date: "Day 11",
+    title: "First Occurrence in Sorted",
+    topic: "Binary Search",
+    difficulty: "Easy",
+    platform: "GeeksforGeeks",
+    link:
+        "https://www.geeksforgeeks.org/problems/binary-search-1587115620/1"
 },
 
 
