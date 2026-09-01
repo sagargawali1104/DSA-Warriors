@@ -11,26 +11,27 @@
 
 const dailyProblems = [
     {
-    id: 23,
-    date: "Day 10",
-    title: "Check Equal Arrays",
-    topic: "Array Basics",
+    id: 25,
+    date: "Day 13",
+    title: "Chocolate Distribution Problem",
+    topic: "Sorting / Array",
     difficulty: "Easy",
     platform: "GeeksforGeeks",
     link:
-        "https://www.geeksforgeeks.org/problems/check-if-two-arrays-are-equal-or-not3847/1"
+        "https://www.geeksforgeeks.org/problems/chocolate-distribution-problem3825/1"
 },
 
 {
-    id: 24,
-    date: "Day 10",
-    title: "Min Diff Pair",
-    topic: "Array Basics",
+    id: 26,
+    date: "Day 13",
+    title: "Selection Sort",
+    topic: "Sorting",
     difficulty: "Easy",
     platform: "GeeksforGeeks",
     link:
-        "https://www.geeksforgeeks.org/problems/minimum-difference-pair5444/1"
+        "https://www.geeksforgeeks.org/problems/selection-sort/1"
 },
+
     
     
    
@@ -339,7 +340,27 @@ const previousProblems = [
     link:
         "https://www.geeksforgeeks.org/problems/binary-search-1587115620/1"
 },
+    {
+    id: 23,
+    date: "Day 10",
+    title: "Check Equal Arrays",
+    topic: "Array Basics",
+    difficulty: "Easy",
+    platform: "GeeksforGeeks",
+    link:
+        "https://www.geeksforgeeks.org/problems/check-if-two-arrays-are-equal-or-not3847/1"
+},
 
+{
+    id: 24,
+    date: "Day 10",
+    title: "Min Diff Pair",
+    topic: "Array Basics",
+    difficulty: "Easy",
+    platform: "GeeksforGeeks",
+    link:
+        "https://www.geeksforgeeks.org/problems/minimum-difference-pair5444/1"
+},
 
 ];
 
