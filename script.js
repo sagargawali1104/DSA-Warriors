@@ -11,26 +11,27 @@
 
 const dailyProblems = [
     {
-    id: 25,
-    date: "Day 13",
-    title: "Chocolate Distribution Problem",
-    topic: "Sorting / Array",
+    id: 27,
+    date: "Day 14",
+    title: "Plus One",
+    topic: "Array",
     difficulty: "Easy",
-    platform: "GeeksforGeeks",
+    platform: "LeetCode",
     link:
-        "https://www.geeksforgeeks.org/problems/chocolate-distribution-problem3825/1"
+        "https://leetcode.com/problems/plus-one/"
 },
 
 {
-    id: 26,
-    date: "Day 13",
-    title: "Selection Sort",
-    topic: "Sorting",
+    id: 28,
+    date: "Day 14",
+    title: "Merge Sorted Array",
+    topic: "Array / Two Pointer",
     difficulty: "Easy",
-    platform: "GeeksforGeeks",
+    platform: "LeetCode",
     link:
-        "https://www.geeksforgeeks.org/problems/selection-sort/1"
+        "https://leetcode.com/problems/merge-sorted-array/"
 },
+  
 
     
     
@@ -360,6 +361,27 @@ const previousProblems = [
     platform: "GeeksforGeeks",
     link:
         "https://www.geeksforgeeks.org/problems/minimum-difference-pair5444/1"
+},
+  {
+    id: 25,
+    date: "Day 13",
+    title: "Chocolate Distribution Problem",
+    topic: "Sorting / Array",
+    difficulty: "Easy",
+    platform: "GeeksforGeeks",
+    link:
+        "https://www.geeksforgeeks.org/problems/chocolate-distribution-problem3825/1"
+},
+
+{
+    id: 26,
+    date: "Day 13",
+    title: "Selection Sort",
+    topic: "Sorting",
+    difficulty: "Easy",
+    platform: "GeeksforGeeks",
+    link:
+        "https://www.geeksforgeeks.org/problems/selection-sort/1"
 },
 
 ];
