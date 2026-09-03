@@ -10,26 +10,27 @@
 ========================================================= */
 
 const dailyProblems = [
-    {
-    id: 27,
-    date: "Day 14",
-    title: "Plus One",
-    topic: "Array",
-    difficulty: "Easy",
-    platform: "LeetCode",
+
+{
+    id: 29,
+    date: "Day 15",
+    title: "Last index of One",
+    topic: "Searching / Binary Array",
+    difficulty: "Basic",
+    platform: "GeeksforGeeks",
     link:
-        "https://leetcode.com/problems/plus-one/"
+        "https://www.geeksforgeeks.org/problems/last-index-of-15847/1"
 },
 
 {
-    id: 28,
-    date: "Day 14",
-    title: "Merge Sorted Array",
-    topic: "Array / Two Pointer",
-    difficulty: "Easy",
-    platform: "LeetCode",
+    id: 30,
+    date: "Day 15",
+    title: "Value equal to position",
+    topic: "Array / Searching",
+    difficulty: "Basic",
+    platform: "GeeksforGeeks",
     link:
-        "https://leetcode.com/problems/merge-sorted-array/"
+        "https://www.geeksforgeeks.org/problems/value-equal-to-index-value1330/1"
 },
   
 
@@ -382,6 +383,27 @@ const previousProblems = [
     platform: "GeeksforGeeks",
     link:
         "https://www.geeksforgeeks.org/problems/selection-sort/1"
+},
+    {
+    id: 27,
+    date: "Day 14",
+    title: "Plus One",
+    topic: "Array",
+    difficulty: "Easy",
+    platform: "LeetCode",
+    link:
+        "https://leetcode.com/problems/plus-one/"
+},
+
+{
+    id: 28,
+    date: "Day 14",
+    title: "Merge Sorted Array",
+    topic: "Array / Two Pointer",
+    difficulty: "Easy",
+    platform: "LeetCode",
+    link:
+        "https://leetcode.com/problems/merge-sorted-array/"
 },
 
 ];
