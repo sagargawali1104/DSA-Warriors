@@ -10,28 +10,29 @@
 ========================================================= */
 
 const dailyProblems = [
-
-{
-    id: 29,
-    date: "Day 15",
-    title: "Last index of One",
-    topic: "Searching / Binary Array",
-    difficulty: "Basic",
-    platform: "GeeksforGeeks",
+    {
+    id: 31,
+    date: "Day 16",
+    title: "Binary Search",
+    topic: "Binary Search",
+    difficulty: "Easy",
+    platform: "LeetCode",
     link:
-        "https://www.geeksforgeeks.org/problems/last-index-of-15847/1"
+        "https://leetcode.com/problems/binary-search/"
 },
 
 {
-    id: 30,
-    date: "Day 15",
-    title: "Value equal to position",
-    topic: "Array / Searching",
+    id: 32,
+    date: "Day 16",
+    title: "First 1 in a Sorted Binary Array",
+    topic: "Binary Search / Array",
     difficulty: "Basic",
     platform: "GeeksforGeeks",
     link:
-        "https://www.geeksforgeeks.org/problems/value-equal-to-index-value1330/1"
+        "https://www.geeksforgeeks.org/problems/index-of-first-1-in-a-sorted-array-of-0s-and-1s4048/1"
 },
+
+
   
 
     
@@ -404,6 +405,27 @@ const previousProblems = [
     platform: "LeetCode",
     link:
         "https://leetcode.com/problems/merge-sorted-array/"
+},
+{
+    id: 29,
+    date: "Day 15",
+    title: "Last index of One",
+    topic: "Searching / Binary Array",
+    difficulty: "Basic",
+    platform: "GeeksforGeeks",
+    link:
+        "https://www.geeksforgeeks.org/problems/last-index-of-15847/1"
+},
+
+{
+    id: 30,
+    date: "Day 15",
+    title: "Value equal to position",
+    topic: "Array / Searching",
+    difficulty: "Basic",
+    platform: "GeeksforGeeks",
+    link:
+        "https://www.geeksforgeeks.org/problems/value-equal-to-index-value1330/1"
 },
 
 ];
