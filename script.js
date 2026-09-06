@@ -11,26 +11,27 @@
 
 const dailyProblems = [
     {
-    id: 31,
-    date: "Day 16",
-    title: "Binary Search",
+    id: 33,
+    date: "Day 17",
+    title: "Common in 3 Sorted Arrays",
+    topic: "Array / Three Pointer",
+    difficulty: "Easy",
+    platform: "GeeksforGeeks",
+    link:
+        "https://www.geeksforgeeks.org/problems/common-elements1132/1"
+},
+
+{
+    id: 34,
+    date: "Day 17",
+    title: "Square Root",
     topic: "Binary Search",
     difficulty: "Easy",
     platform: "LeetCode",
     link:
-        "https://leetcode.com/problems/binary-search/"
+        "https://leetcode.com/problems/sqrtx/"
 },
-
-{
-    id: 32,
-    date: "Day 16",
-    title: "First 1 in a Sorted Binary Array",
-    topic: "Binary Search / Array",
-    difficulty: "Basic",
-    platform: "GeeksforGeeks",
-    link:
-        "https://www.geeksforgeeks.org/problems/index-of-first-1-in-a-sorted-array-of-0s-and-1s4048/1"
-},
+    
 
 
   
@@ -426,6 +427,27 @@ const previousProblems = [
     platform: "GeeksforGeeks",
     link:
         "https://www.geeksforgeeks.org/problems/value-equal-to-index-value1330/1"
+},
+{
+    id: 31,
+    date: "Day 16",
+    title: "Binary Search",
+    topic: "Binary Search",
+    difficulty: "Easy",
+    platform: "LeetCode",
+    link:
+        "https://leetcode.com/problems/binary-search/"
+},
+
+{
+    id: 32,
+    date: "Day 16",
+    title: "First 1 in a Sorted Binary Array",
+    topic: "Binary Search / Array",
+    difficulty: "Basic",
+    platform: "GeeksforGeeks",
+    link:
+        "https://www.geeksforgeeks.org/problems/index-of-first-1-in-a-sorted-array-of-0s-and-1s4048/1"
 },
 
 ];
