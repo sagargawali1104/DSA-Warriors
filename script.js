@@ -11,26 +11,27 @@
 
 const dailyProblems = [
     {
-    id: 33,
-    date: "Day 17",
-    title: "Common in 3 Sorted Arrays",
-    topic: "Array / Three Pointer",
+    id: 35,
+    date: "Day 18",
+    title: "Peak Element",
+    topic: "Binary Search / Array",
     difficulty: "Easy",
     platform: "GeeksforGeeks",
     link:
-        "https://www.geeksforgeeks.org/problems/common-elements1132/1"
+        "https://www.geeksforgeeks.org/dsa/find-a-peak-in-a-given-array/"
 },
 
 {
-    id: 34,
-    date: "Day 17",
-    title: "Square Root",
-    topic: "Binary Search",
+    id: 36,
+    date: "Day 18",
+    title: "Array Leaders",
+    topic: "Array",
     difficulty: "Easy",
-    platform: "LeetCode",
+    platform: "GeeksforGeeks",
     link:
-        "https://leetcode.com/problems/sqrtx/"
+        "https://www.geeksforgeeks.org/problems/leaders-in-an-array-1587115620/1"
 },
+  
     
 
 
@@ -448,6 +449,27 @@ const previousProblems = [
     platform: "GeeksforGeeks",
     link:
         "https://www.geeksforgeeks.org/problems/index-of-first-1-in-a-sorted-array-of-0s-and-1s4048/1"
+},
+  {
+    id: 33,
+    date: "Day 17",
+    title: "Common in 3 Sorted Arrays",
+    topic: "Array / Three Pointer",
+    difficulty: "Easy",
+    platform: "GeeksforGeeks",
+    link:
+        "https://www.geeksforgeeks.org/problems/common-elements1132/1"
+},
+
+{
+    id: 34,
+    date: "Day 17",
+    title: "Square Root",
+    topic: "Binary Search",
+    difficulty: "Easy",
+    platform: "LeetCode",
+    link:
+        "https://leetcode.com/problems/sqrtx/"
 },
 
 ];
