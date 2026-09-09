@@ -11,26 +11,27 @@
 
 const dailyProblems = [
     {
-    id: 35,
-    date: "Day 18",
-    title: "Peak Element",
+    id: 37,
+    date: "Day 19",
+    title: "First Occurrence of an Element",
     topic: "Binary Search / Array",
-    difficulty: "Easy",
+    difficulty: "Basic",
     platform: "GeeksforGeeks",
     link:
-        "https://www.geeksforgeeks.org/dsa/find-a-peak-in-a-given-array/"
+        "https://www.geeksforgeeks.org/problems/first-and-last-occurrences-of-x3116/1"
 },
 
 {
-    id: 36,
-    date: "Day 18",
-    title: "Array Leaders",
-    topic: "Array",
-    difficulty: "Easy",
+    id: 38,
+    date: "Day 19",
+    title: "Last Occurrence of an Element",
+    topic: "Binary Search / Array",
+    difficulty: "Basic",
     platform: "GeeksforGeeks",
     link:
-        "https://www.geeksforgeeks.org/problems/leaders-in-an-array-1587115620/1"
+        "https://www.geeksforgeeks.org/problems/first-and-last-occurrences-of-x3116/1"
 },
+   
   
     
 
@@ -470,6 +471,27 @@ const previousProblems = [
     platform: "LeetCode",
     link:
         "https://leetcode.com/problems/sqrtx/"
+},
+ {
+    id: 35,
+    date: "Day 18",
+    title: "Peak Element",
+    topic: "Binary Search / Array",
+    difficulty: "Easy",
+    platform: "GeeksforGeeks",
+    link:
+        "https://www.geeksforgeeks.org/dsa/find-a-peak-in-a-given-array/"
+},
+
+{
+    id: 36,
+    date: "Day 18",
+    title: "Array Leaders",
+    topic: "Array",
+    difficulty: "Easy",
+    platform: "GeeksforGeeks",
+    link:
+        "https://www.geeksforgeeks.org/problems/leaders-in-an-array-1587115620/1"
 },
 
 ];
