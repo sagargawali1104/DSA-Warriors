@@ -10,26 +10,29 @@
 ========================================================= */
 
 const dailyProblems = [
-    {
-    id: 37,
-    date: "Day 19",
-    title: "First Occurrence of an Element",
+   
+
+
+{
+    id: 39,
+    date: "Day 20",
+    title: "Search in Rotated Sorted Array",
     topic: "Binary Search / Array",
-    difficulty: "Basic",
-    platform: "GeeksforGeeks",
+    difficulty: "Medium",
+    platform: "LeetCode",
     link:
-        "https://www.geeksforgeeks.org/problems/first-and-last-occurrences-of-x3116/1"
+        "https://leetcode.com/problems/search-in-rotated-sorted-array/"
 },
 
 {
-    id: 38,
-    date: "Day 19",
-    title: "Last Occurrence of an Element",
+    id: 40,
+    date: "Day 20",
+    title: "Find Minimum in Rotated Sorted Array",
     topic: "Binary Search / Array",
-    difficulty: "Basic",
-    platform: "GeeksforGeeks",
+    difficulty: "Medium",
+    platform: "LeetCode",
     link:
-        "https://www.geeksforgeeks.org/problems/first-and-last-occurrences-of-x3116/1"
+        "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/"
 },
    
   
@@ -492,6 +495,16 @@ const previousProblems = [
     platform: "GeeksforGeeks",
     link:
         "https://www.geeksforgeeks.org/problems/leaders-in-an-array-1587115620/1"
+},
+{
+    id: 38,
+    date: "Day 19",
+    title: "Last Occurrence of an Element",
+    topic: "Binary Search / Array",
+    difficulty: "Basic",
+    platform: "GeeksforGeeks",
+    link:
+        "https://www.geeksforgeeks.org/problems/first-and-last-occurrences-of-x3116/1"
 },
 
 ];
