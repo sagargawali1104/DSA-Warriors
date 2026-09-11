@@ -10,30 +10,30 @@
 ========================================================= */
 
 const dailyProblems = [
-   
-
-
-{
-    id: 39,
-    date: "Day 20",
-    title: "Search in Rotated Sorted Array",
+   {
+    id: 41,
+    date: "Day 21",
+    title: "Find Smallest Letter Greater Than Target",
     topic: "Binary Search / Array",
-    difficulty: "Medium",
+    difficulty: "Easy",
     platform: "LeetCode",
     link:
-        "https://leetcode.com/problems/search-in-rotated-sorted-array/"
+        "https://leetcode.com/problems/find-smallest-letter-greater-than-target/"
 },
 
 {
-    id: 40,
-    date: "Day 20",
-    title: "Find Minimum in Rotated Sorted Array",
+    id: 42,
+    date: "Day 21",
+    title: "Binary Search",
     topic: "Binary Search / Array",
-    difficulty: "Medium",
-    platform: "LeetCode",
+    difficulty: "Easy",
+    platform: "GeeksforGeeks",
     link:
-        "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/"
+        "https://www.geeksforgeeks.org/problems/binary-search-1587115620/1"
 },
+
+
+
    
   
     
@@ -506,7 +506,27 @@ const previousProblems = [
     link:
         "https://www.geeksforgeeks.org/problems/first-and-last-occurrences-of-x3116/1"
 },
+{
+    id: 39,
+    date: "Day 20",
+    title: "Search in Rotated Sorted Array",
+    topic: "Binary Search / Array",
+    difficulty: "Medium",
+    platform: "LeetCode",
+    link:
+        "https://leetcode.com/problems/search-in-rotated-sorted-array/"
+},
 
+{
+    id: 40,
+    date: "Day 20",
+    title: "Find Minimum in Rotated Sorted Array",
+    topic: "Binary Search / Array",
+    difficulty: "Medium",
+    platform: "LeetCode",
+    link:
+        "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/"
+},
 ];
 
 
