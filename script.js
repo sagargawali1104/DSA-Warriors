@@ -10,27 +10,17 @@
 ========================================================= */
 
 const dailyProblems = [
-   {
-    id: 41,
-    date: "Day 21",
-    title: "Find Smallest Letter Greater Than Target",
-    topic: "Binary Search / Array",
-    difficulty: "Easy",
-    platform: "LeetCode",
-    link:
-        "https://leetcode.com/problems/find-smallest-letter-greater-than-target/"
-},
-
-{
-    id: 42,
-    date: "Day 21",
-    title: "Binary Search",
-    topic: "Binary Search / Array",
-    difficulty: "Easy",
+    {
+    id: 43,
+    date: "Day 22",
+    title: "Aggressive Cows",
+    topic: "Binary Search on Answer",
+    difficulty: "Medium",
     platform: "GeeksforGeeks",
     link:
-        "https://www.geeksforgeeks.org/problems/binary-search-1587115620/1"
+        "https://www.geeksforgeeks.org/problems/aggressive-cows/1"
 },
+  
 
 
 
@@ -526,6 +516,27 @@ const previousProblems = [
     platform: "LeetCode",
     link:
         "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/"
+},
+ {
+    id: 41,
+    date: "Day 21",
+    title: "Find Smallest Letter Greater Than Target",
+    topic: "Binary Search / Array",
+    difficulty: "Easy",
+    platform: "LeetCode",
+    link:
+        "https://leetcode.com/problems/find-smallest-letter-greater-than-target/"
+},
+
+{
+    id: 42,
+    date: "Day 21",
+    title: "Binary Search",
+    topic: "Binary Search / Array",
+    difficulty: "Easy",
+    platform: "GeeksforGeeks",
+    link:
+        "https://www.geeksforgeeks.org/problems/binary-search-1587115620/1"
 },
 ];
 
