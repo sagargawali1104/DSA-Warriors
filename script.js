@@ -11,15 +11,16 @@
 
 const dailyProblems = [
     {
-    id: 43,
-    date: "Day 22",
-    title: "Aggressive Cows",
+    id: 44,
+    date: "Day 23",
+    title: "Koko Eating Bananas",
     topic: "Binary Search on Answer",
     difficulty: "Medium",
-    platform: "GeeksforGeeks",
+    platform: "LeetCode",
     link:
-        "https://www.geeksforgeeks.org/problems/aggressive-cows/1"
+        "https://leetcode.com/problems/koko-eating-bananas/"
 },
+ 
   
 
 
@@ -537,6 +538,16 @@ const previousProblems = [
     platform: "GeeksforGeeks",
     link:
         "https://www.geeksforgeeks.org/problems/binary-search-1587115620/1"
+},
+   {
+    id: 43,
+    date: "Day 22",
+    title: "Aggressive Cows",
+    topic: "Binary Search on Answer",
+    difficulty: "Medium",
+    platform: "GeeksforGeeks",
+    link:
+        "https://www.geeksforgeeks.org/problems/aggressive-cows/1"
 },
 ];
 
