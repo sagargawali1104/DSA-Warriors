@@ -11,15 +11,27 @@
 
 const dailyProblems = [
     {
-    id: 44,
-    date: "Day 23",
-    title: "Koko Eating Bananas",
-    topic: "Binary Search on Answer",
-    difficulty: "Medium",
-    platform: "LeetCode",
+    id: 45,
+    date: "Day 24",
+    title: "Hollow Rectangle",
+    topic: "Pattern / Nested Loops",
+    difficulty: "Basic",
+    platform: "GeeksforGeeks",
     link:
-        "https://leetcode.com/problems/koko-eating-bananas/"
+        "https://www.geeksforgeeks.org/problems/hollow-rectangle-or-square/1"
 },
+
+{
+    id: 46,
+    date: "Day 24",
+    title: "Diamond Pattern",
+    topic: "Pattern / Nested Loops",
+    difficulty: "Basic",
+    platform: "GeeksforGeeks",
+    link:
+        "https://www.geeksforgeeks.org/dsa/program-print-diamond-shape/"
+},
+    
  
   
 
@@ -548,6 +560,16 @@ const previousProblems = [
     platform: "GeeksforGeeks",
     link:
         "https://www.geeksforgeeks.org/problems/aggressive-cows/1"
+},
+{
+    id: 44,
+    date: "Day 23",
+    title: "Koko Eating Bananas",
+    topic: "Binary Search on Answer",
+    difficulty: "Medium",
+    platform: "LeetCode",
+    link:
+        "https://leetcode.com/problems/koko-eating-bananas/"
 },
 ];
 
