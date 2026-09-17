@@ -11,26 +11,27 @@
 
 const dailyProblems = [
     {
-    id: 45,
-    date: "Day 24",
-    title: "Hollow Rectangle",
-    topic: "Pattern / Nested Loops",
-    difficulty: "Basic",
-    platform: "GeeksforGeeks",
+    id: 47,
+    date: "Day 25",
+    title: "Maximum Product Subarray",
+    topic: "Array / Dynamic Programming",
+    difficulty: "Medium",
+    platform: "LeetCode",
     link:
-        "https://www.geeksforgeeks.org/problems/hollow-rectangle-or-square/1"
+        "https://leetcode.com/problems/maximum-product-subarray/"
 },
 
 {
-    id: 46,
-    date: "Day 24",
-    title: "Diamond Pattern",
+    id: 48,
+    date: "Day 25",
+    title: "Print Number Pattern",
     topic: "Pattern / Nested Loops",
     difficulty: "Basic",
     platform: "GeeksforGeeks",
     link:
-        "https://www.geeksforgeeks.org/dsa/program-print-diamond-shape/"
+        "https://www.geeksforgeeks.org/problems/print-the-pattern-set-1/1"
 },
+   
     
  
   
@@ -570,6 +571,27 @@ const previousProblems = [
     platform: "LeetCode",
     link:
         "https://leetcode.com/problems/koko-eating-bananas/"
+},
+ {
+    id: 45,
+    date: "Day 24",
+    title: "Hollow Rectangle",
+    topic: "Pattern / Nested Loops",
+    difficulty: "Basic",
+    platform: "GeeksforGeeks",
+    link:
+        "https://www.geeksforgeeks.org/problems/hollow-rectangle-or-square/1"
+},
+
+{
+    id: 46,
+    date: "Day 24",
+    title: "Diamond Pattern",
+    topic: "Pattern / Nested Loops",
+    difficulty: "Basic",
+    platform: "GeeksforGeeks",
+    link:
+        "https://www.geeksforgeeks.org/dsa/program-print-diamond-shape/"
 },
 ];
 
