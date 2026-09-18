@@ -11,26 +11,26 @@
 
 const dailyProblems = [
     {
-    id: 47,
-    date: "Day 25",
-    title: "Maximum Product Subarray",
-    topic: "Array / Dynamic Programming",
+    id: 49,
+    date: "Day 26",
+    title: "Capacity To Ship Packages Within D Days",
+    topic: "Binary Search on Answer",
     difficulty: "Medium",
     platform: "LeetCode",
     link:
-        "https://leetcode.com/problems/maximum-product-subarray/"
+        "https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/"
 },
-
 {
-    id: 48,
-    date: "Day 25",
-    title: "Print Number Pattern",
+    id: 50,
+    date: "Day 26",
+    title: "Inverted Right Angle Triangle Pattern",
     topic: "Pattern / Nested Loops",
-    difficulty: "Basic",
+    difficulty: "Easy",
     platform: "GeeksforGeeks",
     link:
-        "https://www.geeksforgeeks.org/problems/print-the-pattern-set-1/1"
+        "https://www.geeksforgeeks.org/problems/inverted-right-angletriangle-1605691171--104349/1"
 },
+ 
    
     
  
@@ -592,6 +592,27 @@ const previousProblems = [
     platform: "GeeksforGeeks",
     link:
         "https://www.geeksforgeeks.org/dsa/program-print-diamond-shape/"
+},
+   {
+    id: 47,
+    date: "Day 25",
+    title: "Maximum Product Subarray",
+    topic: "Array / Dynamic Programming",
+    difficulty: "Medium",
+    platform: "LeetCode",
+    link:
+        "https://leetcode.com/problems/maximum-product-subarray/"
+},
+
+{
+    id: 48,
+    date: "Day 25",
+    title: "Print Number Pattern",
+    topic: "Pattern / Nested Loops",
+    difficulty: "Basic",
+    platform: "GeeksforGeeks",
+    link:
+        "https://www.geeksforgeeks.org/problems/print-the-pattern-set-1/1"
 },
 ];
 
