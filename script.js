@@ -11,25 +11,27 @@
 
 const dailyProblems = [
     {
-    id: 49,
-    date: "Day 26",
-    title: "Capacity To Ship Packages Within D Days",
-    topic: "Binary Search on Answer",
+    id: 51,
+    date: "Day 27",
+    title: "Spiral Matrix",
+    topic: "Array / Matrix",
     difficulty: "Medium",
     platform: "LeetCode",
     link:
-        "https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/"
+        "https://leetcode.com/problems/spiral-matrix/"
 },
+
 {
-    id: 50,
-    date: "Day 26",
-    title: "Inverted Right Angle Triangle Pattern",
-    topic: "Pattern / Nested Loops",
-    difficulty: "Easy",
-    platform: "GeeksforGeeks",
+    id: 52,
+    date: "Day 27",
+    title: "Rotate Image",
+    topic: "Array / Matrix",
+    difficulty: "Medium",
+    platform: "LeetCode",
     link:
-        "https://www.geeksforgeeks.org/problems/inverted-right-angletriangle-1605691171--104349/1"
+        "https://leetcode.com/problems/rotate-image/"
 },
+    
  
    
     
@@ -542,6 +544,7 @@ const previousProblems = [
         "https://leetcode.com/problems/find-smallest-letter-greater-than-target/"
 },
 
+
 {
     id: 42,
     date: "Day 21",
@@ -613,6 +616,26 @@ const previousProblems = [
     platform: "GeeksforGeeks",
     link:
         "https://www.geeksforgeeks.org/problems/print-the-pattern-set-1/1"
+},
+{
+    id: 49,
+    date: "Day 26",
+    title: "Capacity To Ship Packages Within D Days",
+    topic: "Binary Search on Answer",
+    difficulty: "Medium",
+    platform: "LeetCode",
+    link:
+        "https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/"
+},
+{
+    id: 50,
+    date: "Day 26",
+    title: "Inverted Right Angle Triangle Pattern",
+    topic: "Pattern / Nested Loops",
+    difficulty: "Easy",
+    platform: "GeeksforGeeks",
+    link:
+        "https://www.geeksforgeeks.org/problems/inverted-right-angletriangle-1605691171--104349/1"
 },
 ];
 
