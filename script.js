@@ -11,47 +11,18 @@
 
 const dailyProblems = [
     {
-    id: 51,
-    date: "Day 27",
-    title: "Spiral Matrix",
-    topic: "Array / Matrix",
-    difficulty: "Medium",
-    platform: "LeetCode",
+    id: 53,
+    date: "Day 28",
+    title: "Ceil and Floor",
+    topic: "Binary Search / Array",
+    difficulty: "Easy",
+    platform: "GeeksforGeeks",
     link:
-        "https://leetcode.com/problems/spiral-matrix/"
-},
-
-{
-    id: 52,
-    date: "Day 27",
-    title: "Rotate Image",
-    topic: "Array / Matrix",
-    difficulty: "Medium",
-    platform: "LeetCode",
-    link:
-        "https://leetcode.com/problems/rotate-image/"
+        "https://www.geeksforgeeks.org/problems/ceil-the-floor2802/1"
 },
     
- 
-   
     
  
-  
-
-
-
-   
-  
-    
-
-
-  
-
-    
-    
-   
-   
-
 
 
     
@@ -636,6 +607,27 @@ const previousProblems = [
     platform: "GeeksforGeeks",
     link:
         "https://www.geeksforgeeks.org/problems/inverted-right-angletriangle-1605691171--104349/1"
+},
+{
+    id: 51,
+    date: "Day 27",
+    title: "Spiral Matrix",
+    topic: "Array / Matrix",
+    difficulty: "Medium",
+    platform: "LeetCode",
+    link:
+        "https://leetcode.com/problems/spiral-matrix/"
+},
+
+{
+    id: 52,
+    date: "Day 27",
+    title: "Rotate Image",
+    topic: "Array / Matrix",
+    difficulty: "Medium",
+    platform: "LeetCode",
+    link:
+        "https://leetcode.com/problems/rotate-image/"
 },
 ];
 
