@@ -11,15 +11,27 @@
 
 const dailyProblems = [
     {
-    id: 53,
-    date: "Day 28",
-    title: "Ceil and Floor",
-    topic: "Binary Search / Array",
-    difficulty: "Easy",
-    platform: "GeeksforGeeks",
+    id: 55,
+    date: "Day 29",
+    title: "Search a 2D Matrix",
+    topic: "Binary Search / Matrix",
+    difficulty: "Medium",
+    platform: "LeetCode",
     link:
-        "https://www.geeksforgeeks.org/problems/ceil-the-floor2802/1"
+        "https://leetcode.com/problems/search-a-2d-matrix/"
 },
+
+{
+    id: 56,
+    date: "Day 29",
+    title: "Single Element in a Sorted Array",
+    topic: "Binary Search / Array",
+    difficulty: "Medium",
+    platform: "LeetCode",
+    link:
+        "https://leetcode.com/problems/single-element-in-a-sorted-array/"
+},
+  
     
     
  
@@ -628,6 +640,16 @@ const previousProblems = [
     platform: "LeetCode",
     link:
         "https://leetcode.com/problems/rotate-image/"
+},
+  {
+    id: 53,
+    date: "Day 28",
+    title: "Ceil and Floor",
+    topic: "Binary Search / Array",
+    difficulty: "Easy",
+    platform: "GeeksforGeeks",
+    link:
+        "https://www.geeksforgeeks.org/problems/ceil-the-floor2802/1"
 },
 ];
 
