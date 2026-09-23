@@ -11,26 +11,16 @@
 
 const dailyProblems = [
     {
-    id: 55,
-    date: "Day 29",
-    title: "Search a 2D Matrix",
-    topic: "Binary Search / Matrix",
-    difficulty: "Medium",
+    id: 57,
+    date: "Day 30",
+    title: "Find the Pivot Integer",
+    topic: "Math / Prefix Sum",
+    difficulty: "Easy",
     platform: "LeetCode",
     link:
-        "https://leetcode.com/problems/search-a-2d-matrix/"
+        "https://leetcode.com/problems/find-the-pivot-integer/"
 },
 
-{
-    id: 56,
-    date: "Day 29",
-    title: "Single Element in a Sorted Array",
-    topic: "Binary Search / Array",
-    difficulty: "Medium",
-    platform: "LeetCode",
-    link:
-        "https://leetcode.com/problems/single-element-in-a-sorted-array/"
-},
   
     
     
@@ -650,6 +640,27 @@ const previousProblems = [
     platform: "GeeksforGeeks",
     link:
         "https://www.geeksforgeeks.org/problems/ceil-the-floor2802/1"
+},
+    {
+    id: 55,
+    date: "Day 29",
+    title: "Search a 2D Matrix",
+    topic: "Binary Search / Matrix",
+    difficulty: "Medium",
+    platform: "LeetCode",
+    link:
+        "https://leetcode.com/problems/search-a-2d-matrix/"
+},
+
+{
+    id: 56,
+    date: "Day 29",
+    title: "Single Element in a Sorted Array",
+    topic: "Binary Search / Array",
+    difficulty: "Medium",
+    platform: "LeetCode",
+    link:
+        "https://leetcode.com/problems/single-element-in-a-sorted-array/"
 },
 ];
 
