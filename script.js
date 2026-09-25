@@ -11,15 +11,19 @@
 
 const dailyProblems = [
     {
-    id: 57,
-    date: "Day 30",
-    title: "Find the Pivot Integer",
-    topic: "Math / Prefix Sum",
+    id: 58,
+    date: "Day 31",
+    title: "Find Smallest Letter Greater Than Target",
+    topic: "Binary Search / Array",
     difficulty: "Easy",
     platform: "LeetCode",
     link:
-        "https://leetcode.com/problems/find-the-pivot-integer/"
+        "https://leetcode.com/problems/find-smallest-letter-greater-than-target/"
 },
+
+
+
+
 
   
     
@@ -661,6 +665,16 @@ const previousProblems = [
     platform: "LeetCode",
     link:
         "https://leetcode.com/problems/single-element-in-a-sorted-array/"
+},
+    {
+    id: 57,
+    date: "Day 30",
+    title: "Find the Pivot Integer",
+    topic: "Math / Prefix Sum",
+    difficulty: "Easy",
+    platform: "LeetCode",
+    link:
+        "https://leetcode.com/problems/find-the-pivot-integer/"
 },
 ];
 
