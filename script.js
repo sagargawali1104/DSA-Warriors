@@ -10,16 +10,29 @@
 ========================================================= */
 
 const dailyProblems = [
-    {
-    id: 58,
-    date: "Day 31",
-    title: "Find Smallest Letter Greater Than Target",
-    topic: "Binary Search / Array",
-    difficulty: "Easy",
+//     {
+//     id: 59,
+//     date: "Day 32",
+//     title: "Remove Duplicates from Sorted Array II",
+//     topic: "Array / Two Pointers",
+//     difficulty: "Medium",
+//     platform: "LeetCode",
+//     link:
+//         "https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/"
+// },
+
+{
+    id: 59,
+    date: "Day 32",
+    title: "3Sum Closest",
+    topic: "Array / Two Pointers",
+    difficulty: "Medium",
     platform: "LeetCode",
     link:
-        "https://leetcode.com/problems/find-smallest-letter-greater-than-target/"
+        "https://leetcode.com/problems/3sum-closest/"
 },
+
+
 
 
 
@@ -675,6 +688,17 @@ const previousProblems = [
     platform: "LeetCode",
     link:
         "https://leetcode.com/problems/find-the-pivot-integer/"
+},
+
+    {
+    id: 58,
+    date: "Day 31",
+    title: "Find Smallest Letter Greater Than Target",
+    topic: "Binary Search / Array",
+    difficulty: "Easy",
+    platform: "LeetCode",
+    link:
+        "https://leetcode.com/problems/find-smallest-letter-greater-than-target/"
 },
 ];
 
