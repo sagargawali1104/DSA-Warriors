@@ -10,6 +10,27 @@
 ========================================================= */
 
 const dailyProblems = [
+    {
+    id: 60,
+    date: "Day 32",
+    title: "First Bad Version",
+    topic: "Binary Search",
+    difficulty: "Easy",
+    platform: "LeetCode",
+    link:
+        "https://leetcode.com/problems/first-bad-version/"
+},
+
+{
+    id: 61,
+    date: "Day 32",
+    title: "Sum of Square Numbers",
+    topic: "Math / Two Pointers / Binary Search",
+    difficulty: "Medium",
+    platform: "LeetCode",
+    link:
+        "https://leetcode.com/problems/sum-of-square-numbers/"
+},
 //     {
 //     id: 59,
 //     date: "Day 32",
@@ -21,16 +42,7 @@ const dailyProblems = [
 //         "https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/"
 // },
 
-{
-    id: 59,
-    date: "Day 32",
-    title: "3Sum Closest",
-    topic: "Array / Two Pointers",
-    difficulty: "Medium",
-    platform: "LeetCode",
-    link:
-        "https://leetcode.com/problems/3sum-closest/"
-},
+
 
 
 
@@ -699,6 +711,16 @@ const previousProblems = [
     platform: "LeetCode",
     link:
         "https://leetcode.com/problems/find-smallest-letter-greater-than-target/"
+},
+{
+    id: 59,
+    date: "Day 32",
+    title: "3Sum Closest",
+    topic: "Array / Two Pointers",
+    difficulty: "Medium",
+    platform: "LeetCode",
+    link:
+        "https://leetcode.com/problems/3sum-closest/"
 },
 ];
 
