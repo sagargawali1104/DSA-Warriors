@@ -10,37 +10,17 @@
 ========================================================= */
 
 const dailyProblems = [
+  
     {
-    id: 60,
-    date: "Day 32",
-    title: "First Bad Version",
-    topic: "Binary Search",
-    difficulty: "Easy",
-    platform: "LeetCode",
-    link:
-        "https://leetcode.com/problems/first-bad-version/"
-},
-
-{
-    id: 61,
-    date: "Day 32",
-    title: "Sum of Square Numbers",
-    topic: "Math / Two Pointers / Binary Search",
+    id: 62,
+    date: "Day 33",
+    title: "Remove Duplicates from Sorted Array II",
+    topic: "Array / Two Pointers",
     difficulty: "Medium",
     platform: "LeetCode",
     link:
-        "https://leetcode.com/problems/sum-of-square-numbers/"
+        "https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/"
 },
-//     {
-//     id: 59,
-//     date: "Day 32",
-//     title: "Remove Duplicates from Sorted Array II",
-//     topic: "Array / Two Pointers",
-//     difficulty: "Medium",
-//     platform: "LeetCode",
-//     link:
-//         "https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/"
-// },
 
 
 
@@ -722,6 +702,29 @@ const previousProblems = [
     link:
         "https://leetcode.com/problems/3sum-closest/"
 },
+  {
+    id: 60,
+    date: "Day 32",
+    title: "First Bad Version",
+    topic: "Binary Search",
+    difficulty: "Easy",
+    platform: "LeetCode",
+    link:
+        "https://leetcode.com/problems/first-bad-version/"
+},
+
+{
+    id: 61,
+    date: "Day 32",
+    title: "Sum of Square Numbers",
+    topic: "Math / Two Pointers / Binary Search",
+    difficulty: "Medium",
+    platform: "LeetCode",
+    link:
+        "https://leetcode.com/problems/sum-of-square-numbers/"
+},
+
+
 ];
 
 
