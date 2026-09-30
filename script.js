@@ -10,17 +10,18 @@
 ========================================================= */
 
 const dailyProblems = [
-  
     {
-    id: 62,
-    date: "Day 33",
-    title: "Remove Duplicates from Sorted Array II",
-    topic: "Array / Two Pointers",
+    id: 63,
+    date: "Day 34",
+    title: "Search a 2D Matrix II",
+    topic: "Matrix / Binary Search",
     difficulty: "Medium",
     platform: "LeetCode",
     link:
-        "https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/"
+        "https://leetcode.com/problems/search-a-2d-matrix-ii/"
 },
+  
+
 
 
 
@@ -722,6 +723,16 @@ const previousProblems = [
     platform: "LeetCode",
     link:
         "https://leetcode.com/problems/sum-of-square-numbers/"
+},
+    {
+    id: 62,
+    date: "Day 33",
+    title: "Remove Duplicates from Sorted Array II",
+    topic: "Array / Two Pointers",
+    difficulty: "Medium",
+    platform: "LeetCode",
+    link:
+        "https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/"
 },
 
 
