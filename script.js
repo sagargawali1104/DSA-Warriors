@@ -10,16 +10,18 @@
 ========================================================= */
 
 const dailyProblems = [
-    {
-    id: 63,
-    date: "Day 34",
-    title: "Search a 2D Matrix II",
-    topic: "Matrix / Binary Search",
-    difficulty: "Medium",
+{
+    id: 64,
+    date: "Day 35",
+    title: "Toeplitz Matrix",
+    topic: "Matrix",
+    difficulty: "Easy",
     platform: "LeetCode",
     link:
-        "https://leetcode.com/problems/search-a-2d-matrix-ii/"
+        "https://leetcode.com/problems/toeplitz-matrix/"
 },
+
+   
   
 
 
@@ -733,6 +735,16 @@ const previousProblems = [
     platform: "LeetCode",
     link:
         "https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/"
+},
+ {
+    id: 63,
+    date: "Day 34",
+    title: "Search a 2D Matrix II",
+    topic: "Matrix / Binary Search",
+    difficulty: "Medium",
+    platform: "LeetCode",
+    link:
+        "https://leetcode.com/problems/search-a-2d-matrix-ii/"
 },
 
 
