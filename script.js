@@ -10,16 +10,17 @@
 ========================================================= */
 
 const dailyProblems = [
-{
-    id: 64,
-    date: "Day 35",
-    title: "Toeplitz Matrix",
-    topic: "Matrix",
+    {
+    id: 65,
+    date: "Day 36",
+    title: "Diagonal Sum",
+    topic: "Matrix / Array",
     difficulty: "Easy",
     platform: "LeetCode",
     link:
-        "https://leetcode.com/problems/toeplitz-matrix/"
+        "https://leetcode.com/problems/matrix-diagonal-sum/"
 },
+
 
    
   
@@ -745,6 +746,16 @@ const previousProblems = [
     platform: "LeetCode",
     link:
         "https://leetcode.com/problems/search-a-2d-matrix-ii/"
+},
+{
+    id: 64,
+    date: "Day 35",
+    title: "Toeplitz Matrix",
+    topic: "Matrix",
+    difficulty: "Easy",
+    platform: "LeetCode",
+    link:
+        "https://leetcode.com/problems/toeplitz-matrix/"
 },
 
 
