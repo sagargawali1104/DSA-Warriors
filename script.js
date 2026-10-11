@@ -11,15 +11,19 @@
 
 const dailyProblems = [
     {
-    id: 65,
-    date: "Day 36",
-    title: "Diagonal Sum",
-    topic: "Matrix / Array",
+    id: 66,
+    date: "Day 37",
+    title: "Sort Array By Parity",
+    topic: "Array / Two Pointers",
     difficulty: "Easy",
     platform: "LeetCode",
     link:
-        "https://leetcode.com/problems/matrix-diagonal-sum/"
+        "https://leetcode.com/problems/sort-array-by-parity/"
 },
+
+
+
+    
 
 
    
@@ -756,6 +760,16 @@ const previousProblems = [
     platform: "LeetCode",
     link:
         "https://leetcode.com/problems/toeplitz-matrix/"
+},
+{
+    id: 65,
+    date: "Day 36",
+    title: "Diagonal Sum",
+    topic: "Matrix / Array",
+    difficulty: "Easy",
+    platform: "LeetCode",
+    link:
+        "https://leetcode.com/problems/matrix-diagonal-sum/"
 },
 
 
