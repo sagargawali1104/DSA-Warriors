@@ -11,15 +11,29 @@
 
 const dailyProblems = [
     {
-    id: 66,
-    date: "Day 37",
-    title: "Sort Array By Parity",
-    topic: "Array / Two Pointers",
+    id: 67,
+    date: "Day 38",
+    title: "Best Time to Buy and Sell Stock",
+    topic: "Array / Greedy",
     difficulty: "Easy",
     platform: "LeetCode",
     link:
-        "https://leetcode.com/problems/sort-array-by-parity/"
+        "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/"
 },
+// {
+//     id: 68,
+//     date: "Day 38",
+//     title: "Best Time to Buy and Sell Stock II",
+//     topic: "Array / Greedy",
+//     difficulty: "Medium",
+//     platform: "LeetCode",
+//     link:
+//         "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/"
+// },
+
+
+
+
 
 
 
@@ -771,7 +785,16 @@ const previousProblems = [
     link:
         "https://leetcode.com/problems/matrix-diagonal-sum/"
 },
-
+    {
+    id: 66,
+    date: "Day 37",
+    title: "Sort Array By Parity",
+    topic: "Array / Two Pointers",
+    difficulty: "Easy",
+    platform: "LeetCode",
+    link:
+        "https://leetcode.com/problems/sort-array-by-parity/"
+},
 
 ];
 
