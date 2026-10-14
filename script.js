@@ -10,26 +10,17 @@
 ========================================================= */
 
 const dailyProblems = [
-    {
-    id: 67,
+
+{
+    id: 68,
     date: "Day 38",
-    title: "Best Time to Buy and Sell Stock",
+    title: "Best Time to Buy and Sell Stock II",
     topic: "Array / Greedy",
-    difficulty: "Easy",
+    difficulty: "Medium",
     platform: "LeetCode",
     link:
-        "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/"
+        "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/"
 },
-// {
-//     id: 68,
-//     date: "Day 38",
-//     title: "Best Time to Buy and Sell Stock II",
-//     topic: "Array / Greedy",
-//     difficulty: "Medium",
-//     platform: "LeetCode",
-//     link:
-//         "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/"
-// },
 
 
 
@@ -794,6 +785,16 @@ const previousProblems = [
     platform: "LeetCode",
     link:
         "https://leetcode.com/problems/sort-array-by-parity/"
+},
+    {
+    id: 67,
+    date: "Day 38",
+    title: "Best Time to Buy and Sell Stock",
+    topic: "Array / Greedy",
+    difficulty: "Easy",
+    platform: "LeetCode",
+    link:
+        "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/"
 },
 
 ];
