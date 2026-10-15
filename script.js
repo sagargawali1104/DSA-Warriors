@@ -10,6 +10,29 @@
 ========================================================= */
 
 const dailyProblems = [
+    {
+    id: 69,
+    date: "Day 39",
+    title: "Product of Array Except Self",
+    topic: "Array / Prefix & Suffix Product",
+    difficulty: "Medium",
+    platform: "LeetCode",
+    link:
+        "https://leetcode.com/problems/product-of-array-except-self/"
+},
+// {
+//     id: 70,
+//     date: "Day 40",
+//     title: "Range Sum Query - Immutable",
+//     topic: "Array / Prefix Sum",
+//     difficulty: "Easy",
+//     platform: "LeetCode",
+//     link:
+//         "https://leetcode.com/problems/range-sum-query-immutable/"
+// },
+
+
+
 
 {
     id: 68,
