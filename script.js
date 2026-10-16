@@ -10,40 +10,20 @@
 ========================================================= */
 
 const dailyProblems = [
-    {
-    id: 69,
-    date: "Day 39",
-    title: "Product of Array Except Self",
-    topic: "Array / Prefix & Suffix Product",
-    difficulty: "Medium",
-    platform: "LeetCode",
-    link:
-        "https://leetcode.com/problems/product-of-array-except-self/"
-},
-// {
-//     id: 70,
-//     date: "Day 40",
-//     title: "Range Sum Query - Immutable",
-//     topic: "Array / Prefix Sum",
-//     difficulty: "Easy",
-//     platform: "LeetCode",
-//     link:
-//         "https://leetcode.com/problems/range-sum-query-immutable/"
-// },
-
-
-
-
+    
 {
-    id: 68,
-    date: "Day 38",
-    title: "Best Time to Buy and Sell Stock II",
-    topic: "Array / Greedy",
-    difficulty: "Medium",
+    id: 70,
+    date: "Day 40",
+    title: "Range Sum Query - Immutable",
+    topic: "Array / Prefix Sum",
+    difficulty: "Easy",
     platform: "LeetCode",
     link:
-        "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/"
+        "https://leetcode.com/problems/range-sum-query-immutable/"
 },
+
+
+
 
 
 
@@ -819,6 +799,28 @@ const previousProblems = [
     link:
         "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/"
 },
+
+{
+    id: 68,
+    date: "Day 38",
+    title: "Best Time to Buy and Sell Stock II",
+    topic: "Array / Greedy",
+    difficulty: "Medium",
+    platform: "LeetCode",
+    link:
+        "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/"
+},
+{
+    id: 69,
+    date: "Day 39",
+    title: "Product of Array Except Self",
+    topic: "Array / Prefix & Suffix Product",
+    difficulty: "Medium",
+    platform: "LeetCode",
+    link:
+        "https://leetcode.com/problems/product-of-array-except-self/"
+},
+
 
 ];
 
