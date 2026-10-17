@@ -10,17 +10,21 @@
 ========================================================= */
 
 const dailyProblems = [
-    
-{
-    id: 70,
+
+
+
+    {
+    id: 76,
     date: "Day 40",
-    title: "Range Sum Query - Immutable",
-    topic: "Array / Prefix Sum",
+    title: "Intersection of Two Arrays II",
+    topic: "Array / Hashing",
     difficulty: "Easy",
     platform: "LeetCode",
     link:
-        "https://leetcode.com/problems/range-sum-query-immutable/"
+        "https://leetcode.com/problems/intersection-of-two-arrays-ii/"
 },
+    
+
 
 
 
@@ -819,6 +823,16 @@ const previousProblems = [
     platform: "LeetCode",
     link:
         "https://leetcode.com/problems/product-of-array-except-self/"
+},
+{
+    id: 70,
+    date: "Day 40",
+    title: "Range Sum Query - Immutable",
+    topic: "Array / Prefix Sum",
+    difficulty: "Easy",
+    platform: "LeetCode",
+    link:
+        "https://leetcode.com/problems/range-sum-query-immutable/"
 },
 
 
