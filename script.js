@@ -10,19 +10,20 @@
 ========================================================= */
 
 const dailyProblems = [
-
-
-
     {
-    id: 76,
-    date: "Day 40",
-    title: "Intersection of Two Arrays II",
-    topic: "Array / Hashing",
-    difficulty: "Easy",
+    id: 77,
+    date: "Day 41",
+    title: "Subarray Sum Equals K",
+    topic: "Array / Prefix Sum / Hashing",
+    difficulty: "Medium",
     platform: "LeetCode",
     link:
-        "https://leetcode.com/problems/intersection-of-two-arrays-ii/"
+        "https://leetcode.com/problems/subarray-sum-equals-k/"
 },
+
+
+
+   
     
 
 
@@ -833,6 +834,16 @@ const previousProblems = [
     platform: "LeetCode",
     link:
         "https://leetcode.com/problems/range-sum-query-immutable/"
+},
+ {
+    id: 76,
+    date: "Day 40",
+    title: "Intersection of Two Arrays II",
+    topic: "Array / Hashing",
+    difficulty: "Easy",
+    platform: "LeetCode",
+    link:
+        "https://leetcode.com/problems/intersection-of-two-arrays-ii/"
 },
 
 
