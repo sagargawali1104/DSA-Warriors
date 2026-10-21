@@ -10,16 +10,19 @@
 ========================================================= */
 
 const dailyProblems = [
-    {
+
+  
+{
     id: 77,
-    date: "Day 41",
-    title: "Subarray Sum Equals K",
-    topic: "Array / Prefix Sum / Hashing",
+    date: "Day 42",
+    title: "Valid Triangle Number",
+    topic: "Array / Sorting / Two Pointers",
     difficulty: "Medium",
     platform: "LeetCode",
-    link:
-        "https://leetcode.com/problems/subarray-sum-equals-k/"
+    link: "https://leetcode.com/problems/valid-triangle-number/"
 },
+
+   
 
 
 
@@ -844,6 +847,16 @@ const previousProblems = [
     platform: "LeetCode",
     link:
         "https://leetcode.com/problems/intersection-of-two-arrays-ii/"
+},
+ {
+    id: 77,
+    date: "Day 41",
+    title: "Subarray Sum Equals K",
+    topic: "Array / Prefix Sum / Hashing",
+    difficulty: "Medium",
+    platform: "LeetCode",
+    link:
+        "https://leetcode.com/problems/subarray-sum-equals-k/"
 },
 
 
