@@ -10,17 +10,18 @@
 ========================================================= */
 
 const dailyProblems = [
-
-  
-{
-    id: 77,
-    date: "Day 42",
-    title: "Valid Triangle Number",
-    topic: "Array / Sorting / Two Pointers",
-    difficulty: "Medium",
+    {
+    id: 78,
+    date: "Day 43",
+    title: "Trapping Rain Water",
+    topic: "Array / Two Pointers",
+    difficulty: "Hard",
     platform: "LeetCode",
-    link: "https://leetcode.com/problems/valid-triangle-number/"
+    link:
+        "https://leetcode.com/problems/trapping-rain-water/"
 },
+  
+
 
    
 
@@ -859,6 +860,16 @@ const previousProblems = [
         "https://leetcode.com/problems/subarray-sum-equals-k/"
 },
 
+{
+    id: 78,
+    date: "Day 42",
+    title: "Trapping Rain Water",
+    topic: "Array / Two Pointers",
+    difficulty: "Hard",
+    platform: "LeetCode",
+    link:
+        "https://leetcode.com/problems/trapping-rain-water/"
+},
 
 ];
 
