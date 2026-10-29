@@ -10,16 +10,33 @@
 ========================================================= */
 
 const dailyProblems = [
+
+
     {
-    id: 78,
+    id: 79,
     date: "Day 43",
-    title: "Trapping Rain Water",
-    topic: "Array / Two Pointers",
-    difficulty: "Hard",
+    title: "Successful Pairs of Spells and Potions",
+    topic: "Array / Binary Search",
+    difficulty: "Medium",
     platform: "LeetCode",
     link:
-        "https://leetcode.com/problems/trapping-rain-water/"
+        "https://leetcode.com/problems/successful-pairs-of-spells-and-potions/"
 },
+// {
+//     id: 80,
+//     date: "Day 43",
+//     title: "Arranging Coins",
+//     topic: "Math / Binary Search",
+//     difficulty: "Easy",
+//     platform: "LeetCode",
+//     link:
+//         "https://leetcode.com/problems/arranging-coins/"
+// },
+
+
+
+
+   
   
 
 
@@ -870,7 +887,16 @@ const previousProblems = [
     link:
         "https://leetcode.com/problems/trapping-rain-water/"
 },
-
+ {
+    id: 78,
+    date: "Day 43",
+    title: "Trapping Rain Water",
+    topic: "Array / Two Pointers",
+    difficulty: "Hard",
+    platform: "LeetCode",
+    link:
+        "https://leetcode.com/problems/trapping-rain-water/"
+},
 ];
 
 
